@@ -1,0 +1,17 @@
+{
+  "name": "ndus-readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ndus/ndus.git",
+  "author": "Ndus",
+  "license": "Unlicense",
+  "devDependencies": {
+    "@types/node": "^15.12.1",
+    "@types/node-fetch": "^2.5.10"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "js-quantities": "^1.7.6",
+    "node-fetch": "^2.6.1"
+  }
+}
