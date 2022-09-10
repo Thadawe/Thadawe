@@ -1,7 +1,6 @@
 // Yo btw, this is stolen from @jasonlong's Github profile.
 // (https://github.com/jasonlong/jasonlong/blob/c9c760318610785772bd0552a9dafc70b64c9e16/build-svg.js)
 
-require('dotenv/config');
 const fs = require('fs');
 const fetch = require('node-fetch');
 const qty = require('js-quantities')
